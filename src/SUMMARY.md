@@ -1,4 +1,9 @@
 # Summary
 
 - [Denuncias](./denuncias.md)
-	- [Diciembre 2025 ](./diciembre-2025.md)
+	- [2025 ](./diciembre-2025.md)
+	- [2023](./2023.md)
+
+- [Timestamps](./irreversible/timestamps.md)
+
+- [Expediente en _formato libro_ flipbook](./anexos/expediente.md)
